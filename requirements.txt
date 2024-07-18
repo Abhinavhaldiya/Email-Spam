@@ -1,2 +1,2 @@
-nltk==24.1.1
-pickle==24.1.1
+nltk
+pickle
