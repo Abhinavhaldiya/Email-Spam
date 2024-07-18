@@ -1,2 +1,3 @@
-nltk
-pickle
+nltk 24.1.1
+pickle 24.1.1
+streamlit 24.1.1
